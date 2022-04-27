@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.zip
+
+# Fraud Detection
+Fraud Detection/sample_submission.csv
+Fraud Detection/test_identity.csv
+Fraud Detection/test_transaction.csv
+Fraud Detection/train_identity.csv
+Fraud Detection/train_transaction.csv
